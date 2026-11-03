@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola a todos, soy alvolirod1208
+## Sobre mí
+Soy estudiante de Desarrollo de Aplicaciones Web (DAW)
+- 💻 Aprendiendo desarrollo web.
+- 🌐 Me interesa el diseño y desarrollo de páginas web.
+- 🚀 Mejorando mis conocimientos de programación.
+- 📚 Actualmente trabajando con HTML, CSS y Git.
+## Tecnologías
 
-<!--
-**alvolirod1208/alvolirod1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![VS Code](https://img.shields.io/badge/VS%20Code%20-blue)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-8A2BE2)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-red)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Visita mi portfolio web](https://alvolirod.github.io)
