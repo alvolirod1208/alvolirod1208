@@ -12,3 +12,6 @@ Soy estudiante de Desarrollo de Aplicaciones Web (DAW)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-red)
 
 [Visita mi portfolio web](https://alvolirod.github.io)
+
+## Contacto
+- GitHub: @alvolirod1208
